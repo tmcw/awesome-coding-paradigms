@@ -26,8 +26,21 @@ based on the vim concepts, like neovim and vim emulation modes. And then an even
 * [chorus](http://www.chorus-home.org/) _the middle ground between spreadsheets and programming_
 * [max/msp](https://en.wikipedia.org/wiki/Max_(software)) _a visual programming language for music and multimedia_
   * [supercollider](https://en.wikipedia.org/wiki/SuperCollider) _an environment and programming language originally released in 1996 by James McCartney for real-time audio synthesis and algorithmic composition_
-  
-  
+
+## Notebook interfaces
+
+### JavaScript
+
+* [Idyll: an interactive document language](https://github.com/idyll-lang/idyll)
+
+### R
+
+* [R Studio](https://www.rstudio.com/)
+
+### Multiple
+
+* [Jupyter](https://jupyter.org/)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/ )
